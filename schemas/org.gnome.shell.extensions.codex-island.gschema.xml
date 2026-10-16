@@ -1,0 +1,8 @@
+<schemalist>
+  <schema id="org.gnome.shell.extensions.codex-island" path="/org/gnome/shell/extensions/codex-island/">
+    <key name="font-size" type="i"><default>16</default><range min="12" max="24"/><summary>正文像素字号</summary></key>
+    <key name="position-x" type="i"><default>-1</default><summary>左边缘屏幕坐标，-1 为自动</summary></key>
+    <key name="position-y" type="i"><default>-1</default><summary>上边缘屏幕坐标，-1 为自动</summary></key>
+    <key name="custom-position" type="b"><default>false</default><summary>使用拖动保存的位置</summary></key>
+  </schema>
+</schemalist>

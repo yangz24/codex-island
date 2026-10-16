@@ -1,0 +1,10 @@
+{
+  "uuid": "codex-island@yangz24.github.io",
+  "name": "Codex Island",
+  "description": "Codex 额度与 token 活动灵动岛。悬停展开，点击固定，右键刷新。",
+  "shell-version": [
+    "46"
+  ],
+  "version": 3,
+  "url": "https://github.com/yangz24/codex-island"
+}

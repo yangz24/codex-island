@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+schemas/gschemas.compiled
+*.zip
+.env
+usage.json
+*.log

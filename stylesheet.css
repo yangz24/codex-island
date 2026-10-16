@@ -1,0 +1,27 @@
+.ci-root { background-color:rgba(12,16,23,0.97); border:1px solid rgba(255,255,255,0.14); border-radius:24px; color:#edf2f7; box-shadow:0 10px 30px 0 rgba(0,0,0,0.38); }
+.ci-head { border-radius:24px; padding:11px 19px; }
+.ci-head:hover { background-color:rgba(255,255,255,0.035); }
+.ci-head:focus { border:1px solid #6ee7b7; }
+.ci-head-box { spacing:12px; }
+.ci-dot { font-size:11px; padding-top:3px; }
+.ci-brand { font-weight:800; font-size:14px; }
+.ci-compact { color:#b8c4d3; font-size:13px; font-feature-settings:"tnum"; }
+.ci-detail { width:304px; padding:5px 22px 19px; }
+.ci-eyebrow { color:#79889c; font-size:10px; padding:5px 0 18px; }
+.ci-row { font-size:13px; padding:5px 0 8px; }
+.ci-value { color:#edf2f7; font-weight:600; }
+.ci-track { background-color:#28313e; border-radius:3px; }
+.ci-muted { color:#7f8da1; font-size:11px; }
+.ci-reset { padding:7px 0 12px; }
+.ci-divider { background-color:rgba(255,255,255,0.09); margin:3px 0 12px; }
+.ci-note { padding:12px 0 8px; }
+.ci-footer { font-size:10px; color:#7f8da1; padding:7px 0 13px; }
+.ci-footer .ci-value { color:#7f8da1; font-weight:400; }
+.ci-refresh { border-radius:12px; background-color:#202c36; color:#9eebcf; padding:9px; font-size:12px; }
+.ci-refresh:hover,.ci-refresh:focus { background-color:#2b3e47; }
+
+.ci-controls { spacing:12px; padding-top:12px; }
+.ci-adjust { border-radius:10px; padding:7px 16px; background-color:#263641; color:#b4f4db; }
+.ci-adjust:hover,.ci-adjust:focus { background-color:#36505c; }
+.ci-reset-position { font-size:11px; color:#a8b7c9; padding-top:12px; }
+.ci-reset-position:hover { color:#dcfff0; }
